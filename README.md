@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, Shabeeba Here</h1>
 <h3 align="center">Exploring and Developing Modern IT Solutions</h3><br>
-<img align="right" alt="hello" width="400" src="https://siteefy.com/wp-content/uploads/2021/02/WordPress-Statistics-and-Trends.png">
+<img align="right" alt="hello" width="350" src="https://siteefy.com/wp-content/uploads/2021/02/WordPress-Statistics-and-Trends.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabeebabanu&label=Profile%20views&color=0e75b6&style=flat" alt="shabeebabanu" /> </p>
 
