@@ -10,7 +10,7 @@
 
 -  I’m looking to collaborate on **Software Projects**
 
--  How to reach me **shabeenu807@gmail.com**
+-  How to reach me **shabeebabanu.user@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
