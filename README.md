@@ -7,8 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabeebabanu&label=Profile%20views&color=0e75b6&style=flat" alt="shabeebabanu" /> </p>
 
 -  I’m currently learning **Information Technology and Management**
+  
+-  I’m currently working on **YouCare, a mobile Apllication**
 
--  I’m looking to collaborate on **Software Projects**
+-  I’m looking to collaborate on **Full Stack development projects**
 
 -  How to reach me **shabeebabanu.user@gmail.com**
 <br>
