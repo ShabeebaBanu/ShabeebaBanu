@@ -15,11 +15,18 @@
 -  Reach me **shabeebabanu.user@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shabeeba-banu-9a3366213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabeeba-banu" height="30" width="40" style="margin-right: 10px;" /></a>
-<a href="https://www.hackerrank.com/profile/banumrmrs_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="banumrmrs_21" height="30" width="40" style="margin-right: 10px;" /></a>
-</p>
-<br>
+
+<div style="display: flex; align-items: center; gap: 15px;">
+
+<a href="https://www.linkedin.com/in/shabeeba-banu-9a3366213/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/banumrmrs_21" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="35" />
+</a>
+
+</div>
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
@@ -67,3 +74,4 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
 
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabeebabanu&show_icons=true&locale=en&layout=compact" alt="shabeebabanu" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shabeebabanu&show_icons=true&locale=en" alt="shabeebabanu" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shabeebabanu&" alt="shabeebabanu" /></p> </div>
