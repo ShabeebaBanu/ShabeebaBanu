@@ -8,7 +8,7 @@
 
 -  learning **Information Technology and Management**
   
--  Currently working on **YouCare, a mobile Apllication**
+-  Currently working on **human-aligned-ai-evaluator, an AI system**
 
 -  Looking to collaborate on **Full Stack development projects**
 
