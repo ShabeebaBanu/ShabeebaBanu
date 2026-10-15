@@ -5,14 +5,15 @@
 <img align="right" alt="hello" width="350" src="https://siteefy.com/wp-content/uploads/2021/02/WordPress-Statistics-and-Trends.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabeebabanu&label=Profile%20views&color=0e75b6&style=flat" alt="shabeebabanu" /> </p>
+- 🎓 Completed my academic requirements in **Information Technology and Management**
 
--  learning **Information Technology and Management**
-  
--  Currently working on **human-aligned-ai-evaluator, an AI system**
+- 💻 Focused on **Java Backend Development with Spring Boot**, and **Full-Stack Development**.
 
--  Looking to collaborate on **Full Stack development projects**
+- 🚀 Curious about building **scalable applications, solving problems, and exploring new technologies**.
 
--  Reach me **shabeebabanu.user@gmail.com**
+- 🤝 Open to collaborating on **Backend and Full-Stack projects**.
+
+- 📫 shabeebabanu.user@gmail.com
 <br>
 <h3 align="left">Connect with me:</h3>
 
