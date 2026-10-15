@@ -5,6 +5,7 @@
 <img align="right" alt="hello" width="350" src="https://siteefy.com/wp-content/uploads/2021/02/WordPress-Statistics-and-Trends.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabeebabanu&label=Profile%20views&color=0e75b6&style=flat" alt="shabeebabanu" /> </p>
+
 - 🎓 Completed my academic requirements in **Information Technology and Management**
 
 - 💻 Focused on **Java Backend Development with Spring Boot**, and **Full-Stack Development**.
